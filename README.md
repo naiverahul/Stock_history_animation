@@ -1,0 +1,1 @@
+The python file is based on python librarires is matplotlibb, pandas and yfinance , creating a animation out of it , of the historical  plot of the company.<br> The input of stock name , start and end date is given manually in the code.<br> A web-app out of it is also made as naiverahul/github/stock_web.io.
